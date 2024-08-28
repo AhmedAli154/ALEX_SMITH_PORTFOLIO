@@ -1,0 +1,79 @@
+@media screen and (max-width:600px)
+.About{
+    width: 100%;
+}
+@media screen and (min-width:601px)
+.About{
+    width: 50%;
+}
+
+@media screen and (max-width:600px)
+.servbigparent{
+    width:25%;
+}
+@media screen and (max-width:601px) and (max-width:768px)
+
+.servbigparent{
+    width:50%;
+}
+@media screen and (max-width:769px) and (max-width:992px)
+
+.servbigparent{
+    width:75%;
+}
+@media screen and (max-width:993px) and (max-width:1200px)
+
+.servbigparent{
+    width:100%;
+}
+
+@media screen and (max-width:600px)
+.our-port{
+    width:30%;
+}
+@media screen and (max-width:601px) and (max-width:768px)
+
+.our-port{
+    width:60%;
+}
+@media screen and (max-width:769px) and (max-width:992px)
+
+.our-port{
+    width:100%;
+}
+
+@media screen and (max-width:600px)
+.timerparent{
+    width:25%;
+}
+@media screen and (max-width:601px) and (max-width:768px)
+
+.timerparent{
+    width:50%;
+}
+@media screen and (max-width:769px) and (max-width:992px)
+
+.timerparent{
+    width:75%;
+}
+@media screen and (max-width:993px) and (max-width:1200px)
+
+.timerparen{
+    width:100%;
+}
+
+@media screen and (max-width:600px)
+.blog-perant{
+    width:30%;
+}
+@media screen and (max-width:601px) and (max-width:768px)
+
+.blog-perant{
+    width:60%;
+}
+@media screen and (max-width:769px) and (max-width:992px)
+
+.blog-perant{
+    width:90%;
+}
+
